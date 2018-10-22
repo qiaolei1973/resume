@@ -9,7 +9,7 @@
 * 技术栈：
     * 前端：js/css/html/ts/react/sass
     * 可视化：webgl/svg/canvas/mapbox/three.js/echarts
-    * 后端：node/java/express
+    * 后端：node/java/express/postgresql
 
 ### 工作经历
 * 2015.10 - 2016.1 浙江超仪（前端、后端）
