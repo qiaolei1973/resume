@@ -15,7 +15,7 @@
     #### 某省政府农业数据可视化平台(gis)
     > key word: antd react sass mapboxgl typescript postgresql express webpack docker ci
     * processing:
-        * 数据源格式包括栅格(grd,lerc),矢量(geojson)等，栅格／矢量数据切片，矢量数据抽稀，入库([PGRestAPI](https://github.com/spatialdev/PGRestAPI))。
+        * 数据源格式包括栅格(grd,lerc),矢量(geojson)等，栅格／矢量数据切片，矢量数据抽稀，入库([PGRestAPI](https://github.com/spatialdev/PGRestAPI))。
     * front:
         * 对农业数据的各种可视化展示,地图方面使用mapboxgl,UI方面使用antd以及下面介绍的UI组件库。
     * backend:
@@ -41,11 +41,11 @@
     * site:
         * documents使用markdown书写，各个组件的example直接注入到markdown。
     * theme:
-        * 参考antd实现配置主题色
+        * 参考antd实现配置主题色
 
     #### 公司内部数据可视化大屏:
     > key word:three.js d3 react typescript
-    * 根据地理位置展示公司在该位置有哪些项目，并使用图表展示每个项目的具体人员投入占比、项目完成进度等信息。
+    * 根据地理位置展示公司在该位置有哪些项目，并使用图表展示每个项目的具体人员投入占比、项目完成进度等信息。其中展示地理位置的地球使用three.js实现，图表使用d3完成。
 
 ### 教育经历
 * 2011 - 2015 天津科技大学 网络工程
