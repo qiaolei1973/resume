@@ -14,8 +14,8 @@
 
     #### 某省政府农业数据可视化平台(gis)
     > key word: antd react sass mapboxgl typescript postgresql express webpack docker ci
-    * 预处理:
-        * 数据源格式包括栅格(grd,lerc),矢量(geojson)等，栅格／矢量数据切片，矢量数据抽稀，入库([PGRestAPI](https://github.com/spatialdev/PGRestAPI))。
+    * processing:
+        * 数据源格式包括栅格(grd,lerc),矢量(geojson)等，栅格／矢量数据切片，矢量数据抽稀，入库([PGRestAPI](https://github.com/spatialdev/PGRestAPI))。
     * front:
         * 对农业数据的各种可视化展示,地图方面使用mapboxgl,UI方面使用antd以及下面介绍的UI组件库。
     * backend:
@@ -37,7 +37,7 @@
         * Measure(测距测面) ***地图组件***
     * icon server:
         * front的功能是为UI小姐姐们提供上传svg的图形界面。
-        * server的功能是将上传的svg转换成font，并上传至cdn（server上也有缓存）。
+        * server的功能是将上传的svg转换成font，并上传至cdn(server上也有缓存)。
     * site:
         * documents使用markdown书写，各个组件的example直接注入到markdown。
     * theme:
