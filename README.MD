@@ -7,7 +7,7 @@
 ### 关于我
 * 工作经验：3年
 * 年龄： 25
-* 所在地： 北京海淀
+* 所在地： 北京海淀
 * 技术栈：
     * 前端：js/css/html/ts/react/sass
     * 可视化：webgl/svg/canvas/mapbox/three.js/echarts
@@ -26,7 +26,7 @@
     
     > antd,react,sass,svg,markdown,webpack,express,docker,ci
     
-    &emsp;&emsp;负责公司前端组件库研发，技栈，服务于公司产品项目开发，和UI设计配合，构建组件设计体系，并在后期一直维护迭代该项目。
+    &emsp;&emsp;负责公司前端组件库研发，技栈，服务于公司产品项目开发，和UI设计配合，构建组件设计体系，并在后期一直维护迭代该项目。</br>
     &emsp;&emsp;Icon组件使用字体方式实现，UI设计完成svg图标后，通过图形化界面上传至字体服务，再同步至前端项目与cdn。
 
     #### 某省政府农业数据可视化平台(gis)
